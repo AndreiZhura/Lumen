@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Lumen</title>
+</head>
+<body>
+  <h1>ИИ-друг Lumen</h1>
+  <input id="name" placeholder="Ваше имя"/><br>
+  <textarea id="input" placeholder="Что хотите спросить?"></textarea><br>
+  <button onclick="send()">Спросить</button>
+  <div id="response"></div>
+
+  <script>
+    async function send() {
+      const user_input = document.getElementById("input").value;
+      const user_name = document.getElementById("name").value;
+      const response = await fetch("/ask", {
+        method: "POST",
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({user_input, user_name})
+      });
+      const data = await response.json();
+      document.getElementById("response").innerText = data.reply;
+    }
+  </script>
+</body>
+</html>
