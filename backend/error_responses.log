@@ -1,0 +1,77 @@
+2025-05-03 19:05:44.122063: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:05:55.197258: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E46FB4BC80>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:05:55.589055: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:06:29.475933: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:06:40.540665: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E46FB71BE0>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:06:41.086158: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:07:13.709872: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:07:24.775788: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E46FB720F0>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:07:25.128560: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:08:09.586913: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:08:09.590917: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E46FB737A0>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:08:10.012735: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:09:30.370573: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:09:30.374006: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BFDE8B9610>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:09:30.779242: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:10:04.367719: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:10:15.445511: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BFDE8E1BB0>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:10:15.831628: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:10:49.979396: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:11:01.041683: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BFDE8E2990>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:11:01.418295: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:11:35.879926: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:11:46.941898: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BFDE8E3800>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:11:47.214206: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:12:19.915563: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:12:30.996113: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BFDE8E2CC0>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:12:31.441042: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:13:04.728093: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:13:04.731443: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BFDE8E2030>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:13:05.108365: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
+2025-05-03 19:13:38.698339: [anakin] Невозможно разобрать JSON:
+<script>
+  window.location.href = 'https://app.anakin.ai/';
+</script>
+
+2025-05-03 19:13:49.773460: Ошибка запроса к bylo: HTTPSConnectionPool(host='api.bylo.ai', port=443): Max retries exceeded with url: /api/openai/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001BFDE8E0EC0>: Failed to resolve 'api.bylo.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-05-03 19:13:50.113267: [openrouter] Нет 'choices': {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 200 tokens, but can only afford 53. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2wXNzP9Pb2DgWuN1BHXh17TDbsQ'}
